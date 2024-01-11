@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Karla:wght@200;300;400&family=Roboto:wght@300;400;500;700;900&family=Salsa&family=Vina+Sans&display=swap');
+html{    
+    height: 100%;
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0px;
+}
+#div1{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    width: 700px;
+    background-color: #8BBD84;
+}
+#div2{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+h3{
+    font-family: Akaya Telivigala;
+    font-size: 2em;
+}
+img{
+    width: 90%;
+    margin-bottom: 2em;
+}
+input{
+    width:40%;
+    background-color: transparent;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Salsa;
+    font-size: 20px;
+}
+p{
+    padding: 1em;
+    padding-left: 2em ;
+    padding-right: 2em ;
+    border-radius: 10px;
+    font-family: Salsa;
+}
+#name{
+    height: 2em;
+
+}
+
+button{
+    width: 9em;
+    height: 3em;
+    background-color: #24E0D6;
+    border-radius: 5px;
+    font-family: Salsa;
+    font-size: 15px;
+}
