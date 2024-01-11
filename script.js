@@ -1,5 +1,4 @@
 function enter(e) {
-
     if (e.key === "Enter") {
         check();
     }
